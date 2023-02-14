@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache-file-upload/apache-file-upload.iml" filepath="$PROJECT_DIR$/apache-file-upload/apache-file-upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/baeldung-java.iml" filepath="$PROJECT_DIR$/baeldung-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deep-copy-objects.iml" filepath="$PROJECT_DIR$/deep-copy-objects.iml" />
     </modules>
   </component>
 </project>
