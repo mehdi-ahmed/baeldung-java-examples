@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6734afe-7fbf-45fc-ae45-c7d6dfb9cebc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/src/main/java/com/mytutorials/baeldung/apachefileupload/ApacheFileUploadApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/src/main/java/com/mytutorials/baeldung/apachefileupload/controller/FileUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apache-file-upload/src/main/resources/static/file-upload-test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep-copy-objects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep-copy-objects/src/main/java/com/mytutorials/baeldung/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep-copy-objects/src/main/java/com/mytutorials/baeldung/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep-copy-objects/src/main/java/com/mytutorials/baeldung/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep-copy-objects/src/test/java/com/mytutorials/baeldung/DeepAndShallowCopiesTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../installations_tools/apache-maven-3.8.7" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LiArsB1d912w0vEmCQMJklp9By" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/work/my_tutorials/java/baeldung-archive/experimenting/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.21724138",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "858b0d7c833afe1d3faf8661a8851e64",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.ApacheFileUploadApplication">
+    <configuration name="DeepAndShallowCopiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="deep-copy-objects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mytutorials.baeldung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mytutorials.baeldung" />
+      <option name="MAIN_CLASS_NAME" value="com.mytutorials.baeldung.DeepAndShallowCopiesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApacheFileUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="apache-file-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mytutorials.baeldung.apachefileupload.ApacheFileUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeepAndShallowCopiesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6734afe-7fbf-45fc-ae45-c7d6dfb9cebc" name="Changes" comment="" />
+      <created>1676343732425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676343732425</updated>
+      <workItem from="1676343733820" duration="1171000" />
+      <workItem from="1676344919572" duration="845000" />
+      <workItem from="1676345777628" duration="15337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/apache-file-upload/src/main/java/com/mytutorials/baeldung/apachefileupload/controller/FileUploadController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
